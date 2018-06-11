@@ -1,0 +1,9 @@
+body{
+  background: linear-gradient(-125deg,#24c6dc,#514a9d)
+  fixed;
+  color: #eeeeee;
+  font-size: 10pt
+}
+
+p.textsize {font-size: 25pt}
+.inner{text-align: center;}
